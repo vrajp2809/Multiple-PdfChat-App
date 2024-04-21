@@ -18,7 +18,8 @@
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+- [Output Screenshot](#output-screenshot)
+
 
 ## Features
 
@@ -66,4 +67,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Create a pull request describing your changes and their purpose.
 
 Thank you for contributing to the project!
+
+## Output Screenshot
+![image](https://github.com/vrajp2809/Multiple-PdfChat-App/assets/128172585/8d19ff13-5939-44fc-9832-00150d744698)
 
